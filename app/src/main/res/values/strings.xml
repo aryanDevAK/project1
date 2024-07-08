@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="introText">Unveiling a World <font color="#169955">Beauty &amp; Cosmetic</font> Products</string>
+    <string name="introSubTitle">Browse the latest styles from top brands \n Get personalised recommendations \n Enjoy fast and free shipping</string>
+    <string name="let_s_get_started">Let\'s get Started</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="jammie">Jammie</string>
+    <string name="categories">Categories</string>
+    <string name="see_all">See all</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="explore">Explore</string>
+    <string name="cart">Cart</string>
+    <string name="whishlist">Whishlist</string>
+    <string name="my_orders">My Orders</string>
+    <string name="profile">Profile</string>
+</resources>
